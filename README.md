@@ -28,7 +28,7 @@ Create an "app" with a name of your choice
 
 Find these variables, as shown in the screenshoot below:
 
-![image](https://github.com/Tescoo/auto-joiner/assets/66729830/0281d5e8-00e9-4f2e-8fff-ddcdccb5d3dd)
+![image](https://i.imgur.com/d5I8UCJ.png)
 
 #### Step 3
 
@@ -44,7 +44,7 @@ Replace:
 
 Like this: 
 
-![image](https://github.com/Tescoo/auto-joiner/assets/66729830/c52c640d-6e53-4735-93c2-08bcb520bde8)
+![image](https://i.imgur.com/GRYyRJV.png)
 
 #### Step 4
 
