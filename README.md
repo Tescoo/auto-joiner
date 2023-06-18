@@ -6,6 +6,12 @@ This is not the fast version. This is the in-and-around first version of RambleT
 
 It uses [KeyAuth's](https://keyauth.cc/) authentication system, meaning it is easy to setup and ready to sell!
 
+# Info
+
+Many features that show in configuration are not actually functional, and you will need to implement them yourself.
+
+Like: Safe Settings or Webhook Logging.
+
 # How to setup KeyAuth
 
 #### Step 1
