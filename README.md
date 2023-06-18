@@ -14,6 +14,8 @@ Many features that show in configuration are not actually functional, and you wi
 
 Like: Safe Settings or Webhook Logging.
 
+[!image](https://i.imgur.com/HOxEcvO.png)
+
 # How to setup KeyAuth
 
 #### Step 1
