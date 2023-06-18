@@ -2,7 +2,9 @@
 RBLXWild AutoJoiner ~ RambleTrick V1.0 (python) ~ Ready To Sell
 
 # Why am I releasing this?
-This is not the fast version. This is the in-and-around first version of RambleTrick AJ, programmed in Python.
+This is not the fast version and currently sold version. This is the in-and-around first version of RambleTrick AJ, programmed in Python.
+
+This version is slow as hell and bloated with unnecessary design.
 
 It uses [KeyAuth's](https://keyauth.cc/) authentication system, meaning it is easy to setup and ready to sell!
 
