@@ -1,0 +1,17 @@
+{
+    "authToken": "",
+    "webhook": "",
+    "safeSettingsEnabled": false,
+    "license": "",
+    "minimumPercent": 100,
+    "safeSettings": {
+        "minimumPrice": 0,
+        "maximumPrice": 1000000000,
+        "missBattles": false,
+        "missEvery": {
+            "miss": 0,
+            "every": 0
+        }
+    },
+    "whosTheBest?": "Tesco"
+}
