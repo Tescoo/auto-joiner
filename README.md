@@ -26,10 +26,30 @@ Find these variables, as shown in the screenshoot below:
 
 Replace:
 
-##### Line 991
+##### Line 991 with App Version
 
-##### Line 993
+##### Line 993 with App Name
 
-##### Line 994
+##### Line 994 with Owner ID
 
-##### Line 995
+##### Line 995 with App Secret
+
+Like this: 
+
+![image](https://github.com/Tescoo/auto-joiner/assets/66729830/c52c640d-6e53-4735-93c2-08bcb520bde8)
+
+#### Step 4
+
+Ion know,
+
+Make keys and sell it?
+
+Change console design and branding?
+
+Change socket library?
+
+Add extra features?
+
+Put a cryptominer in it?
+
+Don't care, won't care. This project is not being maintained.
