@@ -60,4 +60,10 @@ Add extra features?
 
 Put a cryptominer in it?
 
-Don't care, won't care. This project is not being maintained.
+Don't care, won't care. This project is not being maintained. (no updates, no help, no support, no nothing)
+
+# Please
+
+DO NOT MESSAGE ME "uhh uhhh how do i use this i am on the spectrum uhhhh"
+
+I WILL NOT HELP YOU!
