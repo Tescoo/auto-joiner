@@ -1,5 +1,5 @@
 # AutoJoiner
-RBLXWild AutoJoiner ~ RambleTrick V1.0 (python) ~ Ready To Sell
+RBLXWild AutoJoiner ~ RambleTrick V1.0 (python)
 
 # Why am I releasing this?
 This is not the fast version and currently sold version. This is the in-and-around first version of RambleTrick AJ, programmed in Python.
