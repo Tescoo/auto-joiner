@@ -8,6 +8,14 @@ This version is slow as hell and bloated with unnecessary design.
 
 It uses [KeyAuth's](https://keyauth.cc/) authentication system, meaning it is easy to setup and ready to sell!
 
+NO SUPPORT, NO MAINTENANCE!
+
+Got an issue?
+
+#### https://chat.openai.com
+
+#### https://stackoverflow.com
+
 # Info
 
 Many features that show in configuration are not actually functional, and you will need to implement them yourself.
@@ -67,5 +75,7 @@ Don't care, won't care. This project is not being maintained. (no updates, no he
 # Please
 
 DO NOT MESSAGE ME "uhh uhhh how do i use this i am on the spectrum uhhhh"
+
+do not message me at all honestly
 
 I WILL NOT HELP YOU!
